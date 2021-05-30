@@ -1,5 +1,7 @@
 {
-    "Losses": 6,
-    "Money": 0,
-    "Wins": 2
+    "Bankrupts": 10,
+    "Debt": 40,
+    "Losses": 20,
+    "Money": 60,
+    "Wins": 13
 }
